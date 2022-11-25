@@ -1,0 +1,12 @@
+{
+    "name":"Quiniela Numar",
+    "short_name":"QuiniNumar",
+    "start_url":"/",
+    "display":"fullscreen",
+    "background_color":"#ffffff",
+    "lang":"en",
+    "scope":"/",
+    "description":"Juego de quiniela para Numar",
+    "theme_color":"#000000",
+    "orientation":"portrait"
+}
