@@ -8,5 +8,7 @@
     "scope":"/",
     "description":"Juego de quiniela para Numar",
     "theme_color":"#000000",
-    "orientation":"portrait"
+    "orientation":"portrait",
+    "manifest_version": 2,
+    "version": "0.2"
 }
